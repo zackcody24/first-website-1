@@ -1,0 +1,81 @@
+.header {
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 30px;
+    padding-top: 25px;
+    background-image: url(banner-1504653_1920.png);
+    background-position: center;
+}
+
+.main-content-area {
+    color: white;
+    background-color: tomato;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 30px;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    padding-bottom: 50px;
+    background-color: dodgerblue;
+    padding-top: 30px;
+}
+
+h1, h2 {
+    font-family : 'Coda Caption', sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.top-pic {
+    background-color: dodgerblue;
+    float: top;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+p {
+    text-align: center;
+    font-family : 'Coda Caption', sans-serif;
+}
+
+.about-me {
+    line-height: 40px;
+    text-align: center;
+    color: white;
+    background-color: tomato;
+    margin-top: -15px;
+    padding-top: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 25px;
+}
+
+a:hover {
+    color: green;
+}
+
+
+.why-question {
+    text-align: center;
+    background-color: dodgerblue;
+    margin-top: -35px;
+    padding-top: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 30px;
+    margin-bottom: -15px;
+}
